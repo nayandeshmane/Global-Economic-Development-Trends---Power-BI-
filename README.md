@@ -16,7 +16,11 @@
                 <li><strong>Innovation_Development:</strong> R&D spending, patent applications, and high-tech exports.</li>
             </ol>
         </li>
-        <li><strong>Power BI Report:</strong>
+      <img src="Global Develpment Trends.png" alt="Global Trends" width="450">
+      <img src="Sector Development.png" alt="Sector Analysis" width="450">
+      <img src="Trade & Energy Consumption.png" alt="Trade and Energy" width="450">
+
+  <li><strong>Power BI Report:</strong>
             <ul>
                 <li>Page 1: Global Economic Health Overview (GDP, population, unemployment).</li>
                 <li>Page 2: Sector Development Analysis (sectoral contributions to GDP and employment).</li>
